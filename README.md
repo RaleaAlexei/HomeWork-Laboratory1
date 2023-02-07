@@ -20,7 +20,7 @@
 4) H - 10% More Height
 5) h - 10% Less Height
 6) c - Center The App
-7) + \- 10% Bigger
-8) - \- 10% Less
+7) \+ \- 10% Bigger
+8) \- \- 10% Less
 # Aplicatie 6
 Arrow Keys Location Control
