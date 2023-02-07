@@ -14,6 +14,7 @@
 # Aplicatie 4
 1) Form Events
 # Aplicatie 5
+Keyboard Controls:
 1) x - Close
 2) L - 10%  More Width
 3) l - 10% Less Width
